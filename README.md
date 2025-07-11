@@ -19,6 +19,7 @@ I'm a final-year <strong>BCA student at Coer University</strong>, driven by curi
 <p>
 🤝 I thrive in collaborative environments, believe in <strong>lifelong learning</strong>, and enjoy working on both frontend and backend to push the limits of what I can build.
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devraj-rana&label=Profile%20views&color=0e75b6&style=flat" alt="devraj-rana" /> </p>
 
 ---
 
