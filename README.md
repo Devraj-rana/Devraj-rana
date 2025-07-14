@@ -100,9 +100,11 @@ I'm a final-year <strong>BCA student at Coer University</strong>, driven by curi
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj-rana&show_icons=true&theme=radical&hide_border=true&langs_count=8&layout=compact" alt="Gourav's Top Languages" width="45%" />
   </a>
 </p>
-> Let’s connect and build something amazing — I'm always open to new challenges and opportunities to innovate through code.
 
 ## 🤝 Connect With Me
+
+> Let’s connect and build something amazing — I'm always open to new challenges and opportunities to innovate through code.
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-three-gold-77.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devraj-rana/)
