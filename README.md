@@ -33,7 +33,7 @@ I'm a final-year <strong>BCA student at Coer University</strong>, driven by curi
 - 🔥 Passionate about **Next.js**, **backend systems**, **scalable web architectures**, and **AI**
 - 🌱 Currently exploring: **Django REST Framework**, **Advanced Animations**, and **AI/ML**
 - 🤝 Open to collaborations on innovative and impactful projects
-- 🏆 #under top 50 in university ranking on geeks for geeks  
+- 🏆 Ranked among Top 50 GfG coders in my university
 
 ---
 
@@ -97,7 +97,7 @@ I'm a final-year <strong>BCA student at Coer University</strong>, driven by curi
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devraj-rana&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
   </a>
     <a href="https://github.com/Devraj-rana">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj-rana&show_icons=true&theme=radical&hide_border=true&langs_count=8&layout=compact" alt="Gourav's Top Languages" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devraj-rana&show_icons=true&theme=radical&hide_border=true&langs_count=8&layout=compact" alt="Devraj's Top Languages" width="45%" />
   </a>
 </p>
 
@@ -142,4 +142,3 @@ I'm a final-year <strong>BCA student at Coer University</strong>, driven by curi
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
   </a>
 </p>
-
