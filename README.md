@@ -79,7 +79,7 @@ I'm a final-year <strong>BCA student at Coer University</strong>, driven by curi
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Devraj-rana/Devraj-rana/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -127,9 +127,7 @@ I'm a final-year <strong>BCA student at Coer University</strong>, driven by curi
 </div>
 
 ###
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
+
 
 ###
 
