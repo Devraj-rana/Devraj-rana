@@ -117,11 +117,10 @@ I'm a final-year <strong>BCA student at Coer University</strong>, driven by curi
 ---
 
 ###
-
-<div align="center">
-
-  <img src="https://github-profile-trophy.vercel.app?username=Devraj-rana&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Devraj-rana&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
 ###
 
