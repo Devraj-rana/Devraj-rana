@@ -37,12 +37,12 @@ I'm a final-year <strong>BCA student at Coer University</strong>, driven by curi
 
 > Let’s connect and build something amazing — I'm always open to new challenges and opportunities to innovate through code.
 
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devraj-rana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devraj-rana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Devraj-rana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Devraj-rana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 ###
 
 <img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%2Fid%2FOIP.nOQ2v7N_twoeKCdIBCXyzwAAAA%3Fpid%3DApi&f=1&ipt=779880c0e1a49314bafc564f850e200e1aabc7f9a6654c602a2a653b693b43e1&ipo=images"  />
@@ -127,11 +127,18 @@ I'm a final-year <strong>BCA student at Coer University</strong>, driven by curi
 </div>
 
 ###
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devraj-rana/Devraj-rana/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devraj-rana/Devraj-rana/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Devraj-rana/Devraj-rana/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 ###
