@@ -117,22 +117,6 @@ I'm a final-year <strong>BCA student at Coer University</strong>, driven by curi
 ---
 
 ###
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devraj-rana&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Devraj-rana/Devraj-rana/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Devraj-rana/Devraj-rana/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Devraj-rana/Devraj-rana/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-
 ---
 <p align="center">
   <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
